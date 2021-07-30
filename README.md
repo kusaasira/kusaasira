@@ -1,4 +1,4 @@
-### Hi there 👋, I am Joshua Kusaasira.
+### Hi there 👋,
 
 <a href="https://facebook.com/kusaasira.joshua">
   <img align="left" alt="Joshua's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
