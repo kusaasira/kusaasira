@@ -14,7 +14,7 @@
 
 <br />
 
-A Software Engineer with professional experience in developing web applications impacting thousands of people. Specializing in PHP, Javascript not excluding CodeIgniter, Laravel & ReacJS.
+A Software Engineer with professional experience in developing web applications impacting thousands of people. Specializing in PHP, Javascript not excluding CodeIgniter, Laravel & ReactJS.
 
 My stack is as follows:
 * **Frontend**: HTML, CSS, JavaScript, ReactJS, Bootstrap, JSON
