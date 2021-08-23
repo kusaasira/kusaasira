@@ -23,7 +23,7 @@ My stack is as follows:
 * **Cloud Computing**: AWS, DigitalOcean, Heroku
 
 - 🔭 I’m currently working a Web Systems Developer
-- 🌱 I’m currently learning Django and advanced Javascript.
+- 🌱 I’m becoming a super expert at Django and advanced Javascript.
 - 👯 I’m looking to collaborate on open-source projects.
 - 🥅 2021 goals: Improve on development with Python.
 - ⚡ Fun fact: I started development for fun. Now its more fun 🤸
