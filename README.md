@@ -1,4 +1,4 @@
-# Hi 👋 My name is Joshua Kusaasira
+# Hi 👋
 
 [![@kusaasira's Holopin board](https://holopin.me/kusaasira)](https://holopin.io/@kusaasira)
 
