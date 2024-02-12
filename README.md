@@ -4,12 +4,12 @@
 
 ## Fullstack Software Engineer
 
-I've been diligent with studying and writing code since 2015. I started out with PHP, Javascript and later picked up Laravel in 2017 and React in 2018 and later on Python & Python Django. I am a go-getter! I love readable and de-coupled to the bone code.
+Accomplished Fullstack Software Engineer with nearly 9 years of professional experience specializing in developing highly scalable, testable, and performant systems. Proficient in a wide array of technologies including PHP, Laravel, VueJS, InertiaJS, ReactJS, React Native, and NodeJS. Skilled in utilizing state management libraries such as Redux, Vuex, and TarnStack query (formerly React Query). Experienced in backend development, particularly in event-driven architectures utilizing tools like RabbitMQ, Apache Kafka, and handling and integrating big data platforms like Apache Spark and Apache Flink for ETL processes.
 
 - 🌍  I'm based in Kampala, Uganda.
 - ✉️  You can contact me at [joshuakusaasira@gmail.com](mailto:joshuakusaasira@gmail.com)
 - 🚀  I'm currently working on [Something in the kitchen 😎](http://staycalm.com)
-- 🧠  I'm learning Golang.
+- 🧠  I'm perfecting Golang.
 - 🤝  I'm open to collaborating on projects that create change.
 - ⚡  I love anything around cinematography!
 
