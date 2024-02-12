@@ -4,7 +4,9 @@
 
 ## Fullstack Software Engineer
 
-Accomplished Fullstack Software Engineer with nearly 9 years of professional experience specializing in developing highly scalable, testable, and performant systems. Proficient in a wide array of technologies including PHP, Laravel, VueJS, InertiaJS, ReactJS, React Native, and NodeJS. Skilled in utilizing state management libraries such as Redux, Vuex, and TarnStack query (formerly React Query). Experienced in backend development, particularly in event-driven architectures utilizing tools like RabbitMQ, Apache Kafka, and handling and integrating big data platforms like Apache Spark and Apache Flink for ETL processes.
+Accomplished Fullstack Software Engineer with nearly 9 years of professional experience specializing in developing highly scalable, testable, and performant systems. Proficient in a wide array of technologies including PHP, Laravel, VueJS, InertiaJS, ReactJS, React Native, and NodeJS. Skilled in utilizing state management libraries such as Redux, Vuex, and TanStack query (formerly React Query). Experienced in backend development, particularly in event-driven architectures utilizing tools like RabbitMQ, Apache Kafka, and handling and integrating big data platforms like Apache Spark and Apache Flink for ETL processes.
+
+Additionally, I bring over 4 years of leadership experience, having successfully led teams of over 20 engineers across 9 projects.
 
 - 🌍  I'm based in Kampala, Uganda.
 - ✉️  You can contact me at [joshuakusaasira@gmail.com](mailto:joshuakusaasira@gmail.com)
