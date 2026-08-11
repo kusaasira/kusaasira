@@ -1,34 +1,45 @@
-# Hi 👋
+# Joshua Kusaasira 👋
 
-[![@kusaasira's Holopin board](https://holopin.me/kusaasira)](https://holopin.io/@kusaasira)
+### Senior Fullstack Software Engineer · Technical Lead
 
-## Fullstack Software Engineer
+<!-- EXPERIENCE:START -->
 
-Accomplished Fullstack Software Engineer with more than 9 years of professional experience specializing in developing highly scalable, testable, and performant systems. Proficient in a wide array of technologies including PHP, Laravel, VueJS, InertiaJS, ReactJS, React Native, and NodeJS. Skilled in utilizing state management libraries such as Redux, Vuex, and TanStack query (formerly React Query). Experienced in backend development, particularly in event-driven architectures utilizing tools like RabbitMQ, Apache Kafka, and handling and integrating big data platforms like Apache Spark and Apache Flink for ETL processes.
+**11+ years building production software professionally** · coding since 2012
 
-Additionally, I have over 4 years of leadership experience, having successfully led teams of over 20 engineers across 9 projects.
+<!-- EXPERIENCE:END -->
 
-- 🌍  I'm based in Kampala, Uganda.
-- ✉️  You can contact me at [joshuakusaasira@gmail.com](mailto:joshuakusaasira@gmail.com)
-- 🚀  I'm currently working on [Something in the kitchen 😎](http://staycalm.com)
-- 🧠  I'm perfecting Golang.
-- 🤝  I'm open to collaborating on projects that create change.
-- ⚡  I love anything around cinematography!
+> **I build software that survives production.**
 
-### Skills
+Backend-heavy Fullstack Engineer focused on **scalable systems, clean architecture, high-performance APIs, distributed systems and engineering teams that ship**.
 
-<p align="left"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" height="36" alt="Javascript" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="36" height="36" alt="PHP" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" height="36" alt="React" /></a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-plain.svg" width="36" height="36" alt="Vue" /></a><a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg" width="36" height="36" alt="JQuery" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="36" height="36" alt="CSS3" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="36" height="36" alt="Material UI" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="36" height="36" alt="Redux" /></a><a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" width="36" height="36" alt="Babel" /></a><a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="36" height="36" alt="Webpack" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="36" height="36" alt="ExpressJS" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="36" height="36" alt="Firebase" /></a><a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" width="36" height="36" alt="Heroku" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" width="36" height="36" alt="Django" /></a><a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="36" height="36" alt="Lavarel" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="36" height="36" alt="Figma" /></a></p>
+**Core:** PHP · Laravel · Vue · Inertia · React · React Native · Node.js
+**Systems:** PostgreSQL · MySQL · Redis · RabbitMQ · Kafka · Docker · Nginx · CI/CD
+**Data:** Apache Spark · Apache Flink · ETL · Event-Driven Architecture
 
-### Socials
+* ⚡ I obsess over performance, reliability, testing and maintainable architecture
+* 👥 Led teams of **20+ engineers across 9 projects**
+* 🐹 Currently sharpening **Go**
+* 🤝 Open to building products that create serious impact
+* 📍 Kampala, Uganda
+* 🎬 Cinematography when I'm away from code
 
-<p align="left">
-<a href="https://www.facebook.com/kusaasira.joshua" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
-<a href="https://www.github.com/kusaasira" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-<a href="https://www.linkedin.com/in/kusaasira" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-<a href="https://www.stackoverflow.com/users/3186969/kusaasira-joshua" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
-<a href="https://www.twitter.com/_kusaasira" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
-</p>
+### Connect
 
-### Github Stats
+[LinkedIn](https://www.linkedin.com/in/kusaasira) ·
+[Stack Overflow](https://www.stackoverflow.com/users/3186969/kusaasira-joshua) ·
+[X](https://www.twitter.com/_kusaasira) ·
+[Email](mailto:joshuakusaasira@gmail.com)
 
-<a href="http://www.github.com/kusaasira"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kusaasira&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+### GitHub
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kusaasira\&theme=dark)](https://git.io/streak-stats)
+
+<details>
+<summary><strong>🏅 Holopin Board</strong></summary>
+<br />
+
+<a href="https://holopin.io/@kusaasira">
+  <img src="https://holopin.me/kusaasira" alt="@kusaasira's Holopin board" />
+</a>
+
+</details>
