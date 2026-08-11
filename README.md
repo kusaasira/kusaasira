@@ -31,9 +31,6 @@ Backend-heavy Fullstack Engineer focused on **scalable systems, clean architectu
 [Email](mailto:joshuakusaasira@gmail.com)
 
 ### GitHub
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=kusaasira\&theme=dark)](https://git.io/streak-stats)
-
 <details>
 <summary><strong>🏅 Holopin Board</strong></summary>
 <br />
