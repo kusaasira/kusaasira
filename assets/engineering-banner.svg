@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+  <title id="title">Joshua Kusaasira, software engineer and architect</title>
+  <desc id="desc">A restrained dark banner with Joshua's name, engineering focus and a schematic connecting data, services and applications.</desc>
+  <rect width="1280" height="360" rx="18" fill="#0c1420" />
+  <path d="M0 0H1280" stroke="#26394b" stroke-width="2" />
+  <path d="M50 72V290" stroke="#76e2bc" stroke-width="4" stroke-linecap="round" />
+  <text x="82" y="79" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" font-weight="600" letter-spacing="3" fill="#78e4c1">BUILD  /  SECURE  /  OPERATE</text>
+  <text x="78" y="148" font-family="Arial, Helvetica, sans-serif" font-size="59" font-weight="800" letter-spacing="1" fill="#f5f8fb">JOSHUA</text>
+  <text x="78" y="214" font-family="Arial, Helvetica, sans-serif" font-size="59" font-weight="800" letter-spacing="1" fill="#f5f8fb">KUSAASIRA</text>
+  <text x="81" y="257" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#c9d5e0">Software engineer  ·  Architect  ·  Technical leader</text>
+  <text x="82" y="308" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="15" fill="#94a6ba">11+ years in production engineering</text>
+  <g opacity="0.13" stroke="#a0b9c8" stroke-width="1">
+    <path d="M695 0V360 M755 0V360 M815 0V360 M875 0V360 M935 0V360 M995 0V360 M1055 0V360 M1115 0V360 M1175 0V360 M1235 0V360" />
+    <path d="M680 45H1280 M680 105H1280 M680 165H1280 M680 225H1280 M680 285H1280 M680 345H1280" />
+  </g>
+  <rect x="731" y="65" width="489" height="231" rx="13" fill="#111d2a" stroke="#345062" stroke-width="1.5" />
+  <path d="M731 103H1220" stroke="#345062" />
+  <circle cx="755" cy="85" r="5" fill="#78e4c1" />
+  <circle cx="774" cy="85" r="5" fill="#60788d" />
+  <circle cx="793" cy="85" r="5" fill="#60788d" />
+  <text x="1179" y="90" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" fill="#88a7b6">SYSTEMS THINKING</text>
+  <text x="762" y="139" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" fill="#a5c4d0">architecture / end-to-end</text>
+  <rect x="760" y="169" width="135" height="82" rx="7" fill="#192b3c" stroke="#3c6372" />
+  <rect x="909" y="169" width="135" height="82" rx="7" fill="#192b3c" stroke="#3c6372" />
+  <rect x="1058" y="169" width="135" height="82" rx="7" fill="#192b3c" stroke="#3c6372" />
+  <text x="775" y="190" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#78e4c1">01 / DATA</text>
+  <text x="775" y="215" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600" fill="#f2f7fb">Model &amp; query</text>
+  <text x="775" y="235" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#a8b9ca">SQL · Redis</text>
+  <text x="924" y="190" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#78e4c1">02 / SERVICES</text>
+  <text x="924" y="215" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600" fill="#f2f7fb">APIs &amp; jobs</text>
+  <text x="924" y="235" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#a8b9ca">Laravel · Node</text>
+  <text x="1073" y="190" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#78e4c1">03 / DELIVERY</text>
+  <text x="1073" y="215" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600" fill="#f2f7fb">Web &amp; mobile</text>
+  <text x="1073" y="235" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#a8b9ca">Build · Observe</text>
+  <path d="M895 210H909 M1044 210H1058" stroke="#78e4c1" stroke-width="2" />
+  <text x="762" y="277" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" fill="#92b3bf">security + reliability at every layer</text>
+</svg>
