@@ -67,7 +67,7 @@ def calculate(days, today):
     previous = None
     for day in sorted(days):
         if days[day] > 0:
-            if previous != day - timedelta(days=1):
+            if run == 0 or previous != day - timedelta(days=1):
                 start_run, run = day, 0
             run += 1
             if run > best:
@@ -183,25 +183,6 @@ def render(stats):
     (ASSETS/"github-activity.svg").write_text("\n".join(svg)+"\n")
     (ASSETS/"github-activity.json").write_text(json.dumps(stats, indent=2)+"\n")
 
-def promote_readme():
-    path = ROOT/"README.md"
-    readme = path.read_text()
-    begin, end = "<!-- ACTIVITY:START -->", "<!-- ACTIVITY:END -->"
-    if readme.count(begin) != 1 or readme.count(end) != 1:
-        raise RuntimeError("README activity markers are missing or duplicated")
-    replacement = """<!-- ACTIVITY:START -->
-<p align="center">
-  <a href="https://github.com/kusaasira?tab=overview">
-    <img src="./assets/github-activity.gif" width="100%" alt="Animated verified public GitHub contributions: total contributions, current daily streak and longest daily streak. Counts up once then holds the final values." />
-  </a>
-</p>
-<p align="center"><sub>Publicly visible GitHub contributions · Refreshed daily · <a href="./assets/github-activity.svg">Static alternative</a></sub></p>
-<!-- ACTIVITY:END -->"""
-    left, rest = readme.split(begin, 1)
-    _, right = rest.split(end, 1)
-    if readme != left+replacement+right:
-        path.write_text(left+replacement+right)
-
 def main():
     token = os.environ.get("GITHUB_TOKEN")
     if not token:
@@ -210,7 +191,6 @@ def main():
     stats = calculate(contributions(token, today), today)
     print(json.dumps(stats, indent=2))
     render(stats)
-    promote_readme()
 
 if __name__ == "__main__":
     main()
