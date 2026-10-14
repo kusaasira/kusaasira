@@ -56,6 +56,18 @@ Laravel isn't a framework I merely use. It's a platform I know how to **design a
 
 **International platforms.** Helped localize **five production platforms into 26 languages**, building APIs, analytics and automation around multilingual operations.
 
+## GitHub activity, by the numbers
+
+A little counter energy for the years of building, breaking, debugging and shipping. The numbers below are sourced from GitHub, not estimates.
+
+<!-- ACTIVITY:START -->
+<p align="center">
+  <a href="https://github.com/kusaasira?tab=overview">
+    <img src="https://streak-stats.demolab.com/?user=kusaasira&amp;theme=github-dark-blue&amp;background=0C1420&amp;border=345062&amp;stroke=345062&amp;ring=78E4C1&amp;fire=78E4C1&amp;currStreakNum=F5F8FB&amp;sideNums=F5F8FB&amp;currStreakLabel=78E4C1&amp;sideLabels=C9D5E0&amp;dates=94A6BA&amp;card_width=800" width="100%" alt="Live GitHub contribution totals, current daily streak and longest daily streak for kusaasira." />
+  </a>
+</p>
+<!-- ACTIVITY:END -->
+
 ## Beyond application code
 
 I also own the infrastructure and engineering controls that make software dependable after it ships.
