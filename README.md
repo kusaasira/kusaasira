@@ -63,9 +63,10 @@ A little counter energy for the years of building, breaking, debugging and shipp
 <!-- ACTIVITY:START -->
 <p align="center">
   <a href="https://github.com/kusaasira?tab=overview">
-    <img src="https://streak-stats.demolab.com/?user=kusaasira&amp;theme=github-dark-blue&amp;background=0C1420&amp;border=345062&amp;stroke=345062&amp;ring=78E4C1&amp;fire=78E4C1&amp;currStreakNum=F5F8FB&amp;sideNums=F5F8FB&amp;currStreakLabel=78E4C1&amp;sideLabels=C9D5E0&amp;dates=94A6BA&amp;card_width=800" width="100%" alt="Live GitHub contribution totals, current daily streak and longest daily streak for kusaasira." />
+    <img src="https://raw.githubusercontent.com/kusaasira/kusaasira/activity-data/assets/github-activity.gif" width="100%" alt="Animated public GitHub activity counters: total contributions, current daily streak and longest daily streak. Each counter accelerates then eases into its verified final number." />
   </a>
 </p>
+<p align="center"><sub>Publicly visible contributions only · Refreshed daily from GitHub GraphQL · <a href="https://github.com/kusaasira/kusaasira/blob/activity-data/assets/github-activity.svg">Static alternative</a></sub></p>
 <!-- ACTIVITY:END -->
 
 ## Beyond application code
